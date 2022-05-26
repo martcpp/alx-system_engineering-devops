@@ -2,15 +2,15 @@
 ## script that switches the current user to the user betty.
 [0-iam_betty](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/0-iam_betty)
 ## script that prints the effective username of the current user.
-[1-who_am_i]()
+[1-who_am_i](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i)
 ## a script that prints all the groups the current user is part of
-[2-groups]()
+[2-groups](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/2-groups)
 ## script that changes the owner of the file hello to the user betty
-[3-new_owner]()
+[3-new_owner](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/3-new_owner)
 ## script that creates an empty file called hello
-[4-empty]()
+[4-empty](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/4-empty)
 ## script that adds execute permission to the owner of the file hello
-[5-execute]()
+[5-execute](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/5-execute)
 ## script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 [6-multiple_permissions]()
 ## script that adds execution permission to the owner, the group owner and the other users, to the file hello
