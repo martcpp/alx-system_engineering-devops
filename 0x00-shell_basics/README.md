@@ -11,15 +11,15 @@
 ## Display current directory contents, including hidden files 
 [4-listmorefiles](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 ## Display current directory contents
- [5-listfilesdigitonly]()
+ [5-listfilesdigitonly](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 ## creates a directory named my_first_directory in the /tmp/ directory.
- [6-firstdirectory ]()   
+ [6-firstdirectory ](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)   
 ## Move the file betty from /tmp/ to /tmp/my_first_directory
-  [7-movethatfile]()            
+  [7-movethatfile](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile)            
 ## Delete the file betty
- [8-firstdelete]() 
+ [8-firstdelete](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete) 
 ## Delete the directory my_first_directory that is in the /tmp directory.
- [9-firstdirdeletion]()
+ [9-firstdirdeletion](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion)
 ## changes the working directory to the previous one.
  [10-back]()            
 ## lists all files in /boot directly
