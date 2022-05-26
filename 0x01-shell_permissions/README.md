@@ -32,15 +32,15 @@
 
 [10-mirror_permissions](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/10-mirror_permissions)
 ## script that creates a directory called my_dir with permissions 751 in the working directory.
-[11-directories_permissions]()
+[11-directories_permissions](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/11-directories_permissions)
 ## script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
-[12-directory_permissions]()
+[12-directory_permissions](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/12-directory_permissions)
 ## script that changes the group owner to school for the file hello
-[13-change_group]()
+[13-change_group](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/13-change_group)
 ## script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-[100-change_owner_and_group]()
+[100-change_owner_and_group](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/100-change_owner_and_group)
 ## script that changes the owner and the group owner of _hello to vincent and staff respectively.
-[101-symbolic_link_permissions]()
+[101-symbolic_link_permissions](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x01-shell_permissions/101-symbolic_link_permissions)
 ## script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 [102-if_only]()
 ## script that will play the StarWars IV episode in the terminal.
