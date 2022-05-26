@@ -1,25 +1,25 @@
 # Basic bash script to execute
 
 ## prints the absolute path name of the current working directory.
-[0-current_working_directory]()
+[0-current_working_directory](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 ## Display the contents list of your current directory
-[1-listit]()
+[1-listit](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 ## changes the working directory to the user’s home directory
-[ 2-bring_me_home]()        
+[ 2-bring_me_home](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)        
 ## Display current directory contents in a long format                         
- [3-listfiles]()
+ [3-listfiles](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
 ## Display current directory contents, including hidden files 
-[4-listmorefiles]()
+[4-listmorefiles](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 ## Display current directory contents
  [5-listfilesdigitonly]()
 ## creates a directory named my_first_directory in the /tmp/ directory.
  [6-firstdirectory ]()   
 ## Move the file betty from /tmp/ to /tmp/my_first_directory
   [7-movethatfile]()            
-## Delete the file betty.
-[ 8-firstdelete]() 
-Delete the directory my_first_directory that is in the /tmp directory.
- [ 9-firstdirdeletion]()
+## Delete the file betty
+ [8-firstdelete]() 
+## Delete the directory my_first_directory that is in the /tmp directory.
+ [9-firstdirdeletion]()
 ## changes the working directory to the previous one.
  [10-back]()            
 ## lists all files in /boot directly
