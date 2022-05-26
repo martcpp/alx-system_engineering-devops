@@ -31,12 +31,12 @@
 ## script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
  [14-copy_html](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/14-copy_html)
 ## Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
-  [100-lets_move]
+  [100-lets_move](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/100-lets_move)
 ## Create a script that deletes all files in the current working directory that end with the character ~
-  [101-clean_emacs]()
+  [101-clean_emacs](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/101-clean_emacs)
  ## Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
- [102-tree]()
+ [102-tree](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/102-tree)
  ##  a command that lists all the files and directories of the current directory, separated by commas (,).
- [103-commas]()
+ [103-commas](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas)
  ## Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
- [school.mgc]()
+ [school.mgc](https://github.com/martcpp/alx-system_engineering-devops/blob/master/0x00-shell_basics/school.mgc)
