@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n iacta |sort -nr| tail --line=3| head --line=1
